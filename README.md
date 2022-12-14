@@ -1,7 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 <h1>Hey there, I am Rustam<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
-<img align='right' src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="230" />
+<img align='right' src="https://github.com/RustX2802/RustX2802/blob/main/code.gif" width="230" />
 
 I'm a Deep Learning Practitioner based in Seoul. I have experience building and scaling AI software applications and services in various verticals. I have graduated from Hanyang University, South Korea as a Master of Science in Computer Science & Engineering with a major in Bio Artificial Intelligence. Currently I'm working as an AI software developer in South Korea at "Hankook Cloud" company.
 My passion lies at the intersection of CV and NLP with dreaming up ideas and making them come true with a real-world data. I take great care in the experience, architecture, and code quality of the things I build.
