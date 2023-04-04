@@ -17,7 +17,7 @@ My passion lies at the intersection of CV and NLP with dreaming up ideas and mak
 <img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" alt="Git" width="50px" src="https://twimlai.com/solutions/wp-content/uploads/2021/03/Hugging-face-Logo-1.png" />
-<img align="left" alt="Streamlit" width="50px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F458260%2Fstreamlit&psig=AOvVaw2f0XXwiT73A1m5IStbxQIC&ust=1680664307585000&source=images&cd=vfe&ved=2ahUKEwii38vJoI_-AhUNe94KHVANDp4QjRx6BAgAEAs"/>
+<img align="left" alt="Streamlit" width="50px" src=""/>
 <img align="left" alt="HTML5" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />
 <img align="left" alt="CSS3" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/800px-TensorFlow_logo.svg.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
