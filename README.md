@@ -12,14 +12,14 @@ My passion lies at the intersection of CV and NLP with dreaming up ideas and mak
 
 ### Languages and Tools: 
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Gradio" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSER9lUigk9x6geZXvHYvqKfuhFa14LEpI6ew&usqp=CAU" />
+<img align="left" alt="Gradio" width="50px" src="https://user-images.githubusercontent.com/72299347/235559465-39796098-ce6b-4c90-9fe0-6eba0abaf35a.png" />
 <img align="left" alt="Flask" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="JS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" alt="HF" width="50px" src="https://twimlai.com/solutions/wp-content/uploads/2021/03/Hugging-face-Logo-1.png" />
-<img align="left" alt="Streamlit" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png"/>
-<img align="left" alt="PyTorch" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" />
-<img align="left" alt="Tensorflow" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/800px-TensorFlow_logo.svg.png" />
+<img align="left" alt="Streamlit" width="50px" src="https://user-images.githubusercontent.com/72299347/235559875-6d1bdeac-25c7-4f32-afd0-59aedcde8768.png" />
+<img align="left" alt="PyTorch" width="50px" src="https://user-images.githubusercontent.com/72299347/235560205-f594c099-fcb7-4774-9175-c1e1ebc980be.png" />
+<img align="left" alt="Tensorflow" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" />
 <img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Docker" width="50px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" />
