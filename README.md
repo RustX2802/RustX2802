@@ -1,6 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RustX2802)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RustX2802)
 
 <h1>Hey there, I am Rustam<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 <img align='right' src="https://github.com/RustX2802/RustX2802/blob/main/code.gif" width="230" />
