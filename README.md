@@ -27,6 +27,4 @@ My passion lies at the intersection of CV and NLP with dreaming up ideas and mak
 <img align="left" alt="Langchain" width="50px" src="https://user-images.githubusercontent.com/72299347/235559294-788a4905-9a8d-4797-b163-3e0a2ba49a9f.png" />
 <img align="left" alt="MERN" width="50px" src="https://github.com/RustX2802/RustX2802/assets/72299347/caaa61b8-db94-4b58-bdbc-0047690d3b34" />
 <img align="left" alt="Redis" width="50px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_original_wordmark_logo_icon_146369.png" />
-
-<img align="left" alt="PERN" width="50px" src="https://github.com/RustX2802/RustX2802/assets/72299347/16b4b138-a584-474c-9067-bfd269dbc4e9" />
 <img align="left" alt="PERN" width="50px" src="https://github.com/RustX2802/RustX2802/assets/72299347/b44fc314-ebf0-46fd-8823-c8c534f90d21" />
