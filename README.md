@@ -14,7 +14,7 @@ My passion lies at the intersection of CV and NLP with dreaming up ideas and mak
 
 ### Languages and Tools: 
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Flask" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+<img align="left" alt="Flask" width="50px" src="https://github.com/RustX2802/RustX2802/assets/72299347/1c602bb3-8a64-4de9-b5dd-a01f843f956a" />
 <img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="JS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" alt="PyTorch" width="50px" src="https://user-images.githubusercontent.com/72299347/235560205-f594c099-fcb7-4774-9175-c1e1ebc980be.png" />
