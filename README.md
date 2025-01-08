@@ -31,4 +31,5 @@ My passion lies at the intersection of CV and NLP with dreaming up ideas and mak
     <img alt="Zookeeper" height="40" style="object-fit: contain; background: white; padding: 5px;" src="https://tse4.mm.bing.net/th?id=OIP._iVZL3Sq9aDRV0ZRSHxEpQHaEA&pid=Api&P=0&h=220" />
     <img alt="Spark" height="40" style="object-fit: contain; background: white; padding: 5px;" src="https://tse1.mm.bing.net/th?id=OIP.Y0ow0GddcVnLgAzpvGI0EAHaFF&pid=Api&P=0&h=220" />
     <img alt="Cassandra" height="40" style="object-fit: contain; background: white; padding: 5px;" src="https://tse4.mm.bing.net/th?id=OIP.k3gde67T6UqdAcwredOOYAHaB-&pid=Api&P=0&h=220" />
+    <img alt="Debezium" height="40" style="object-fit: contain; background: white; padding: 5px;" src="https://tse1.mm.bing.net/th?id=OIP.YNKlrQoMQyDMiYYpQXFupAAAAA&pid=Api&P=0&h=220" />
 </div>
