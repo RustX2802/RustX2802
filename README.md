@@ -5,8 +5,7 @@
 <h1>Hey there, I am Rustam<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 <img align='right' src="https://github.com/RustX2802/RustX2802/blob/main/code.gif" width="230" />
 
-I'm an AI/DevOPS Engineer based in Seoul. I have experience building and scaling AI software applications and services in various verticals. I have graduated from Hanyang University, South Korea as a Master of Science in Computer Science & Engineering with a major in Bio Artificial Intelligence.
-My passion lies at the intersection of CV and NLP with dreaming up ideas and making them come true with a real-world data. I take great care in the experience, architecture, and code quality of the things I build.
+I'm a developer experienced in building and scaling AI software applications and services in various verticals. Whether you're trying to automate your business processes, or realize your ideas with a real-world data, I can help. I take great care in the experience, architecture, and code quality of the things I build.
 
 <a href="https://www.linkedin.com/in/rustx/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/RustX2802"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
