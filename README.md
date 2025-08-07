@@ -31,4 +31,5 @@ I'm a developer experienced in building and scaling AI software applications and
     <img alt="Spark" height="40" style="object-fit: contain; background: white; padding: 5px;" src="https://tse1.mm.bing.net/th?id=OIP.Y0ow0GddcVnLgAzpvGI0EAHaFF&pid=Api&P=0&h=220" />
     <img alt="Cassandra" height="40" style="object-fit: contain; background: white; padding: 5px;" src="https://tse4.mm.bing.net/th?id=OIP.k3gde67T6UqdAcwredOOYAHaB-&pid=Api&P=0&h=220" />
     <img alt="Debezium" height="40" style="object-fit: contain; background: white; padding: 5px;" src="https://tse1.mm.bing.net/th?id=OIP.YNKlrQoMQyDMiYYpQXFupAAAAA&pid=Api&P=0&h=220" />
+    <img alt="Argo" height="40" style="object-fit: contain; background: white; padding: 5px;" src="https://miro.medium.com/v2/resize:fit:902/0*fWfPXoZ1V2wUDl05" />
 </div>
